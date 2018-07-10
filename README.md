@@ -3,10 +3,10 @@ A deep learning performance script for Keras using a TensorFlow backend.  It loa
 
 # Required Download
 As mentioned above, this network assumes a file (densenet121_weights_tf_dim_ordering_tf_kernels.h5) contianing the pre-trained weights for DenseNet121 is in the same directory as the python script.  The file is about 32MB and so is too big to uploaded here.  However it is freely available from via: <br>
-[direct download](https://github.com/fchollet/deep-learning-models/releases/download/v0.8/densenet121_weights_tf_dim_ordering_tf_kernels.h5)
+[direct download](https://github.com/fchollet/deep-learning-models/releases/download/v0.8/densenet121_weights_tf_dim_ordering_tf_kernels.h5) <br>
 -or- <br>
 via wget: <br>
-  sudo wget https://github.com/fchollet/deep-learning-models/releases/download/v0.8/densenet121_weights_tf_dim_ordering_tf_kernels.h5 <br>
+> sudo wget https://github.com/fchollet/deep-learning-models/releases/download/v0.8/densenet121_weights_tf_dim_ordering_tf_kernels.h5 <br>
 
 # Addtional Resource
 I would be remiss if I did not cite numerous other pre-trained weights available here: <br>
